@@ -1,0 +1,30 @@
+wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+{
+  "aws_secret_key": [
+    "AWS_SECRET_ACCESS_KEY = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'",
+    "secret_access_key = 'je7MtGbClwBF/2Zp9Utk/h3yCo8nvbEXAMPLEKEY'",
+    "const SECRET_KEY = '1234567890abcdef1234567890abcdef12345678'",
+    "process.env.AWS_SECRET_KEY = 'abcdefghijklmnopqrstuvwxyz1234567890ABCD'",
+    "AWS_ACCESS_KEY_ID = 'AKIAIOSFODNN7EXAMPLE'",
+    "access_key_id = 'AKIAI44QH8DHBEXAMPLE'",
+    "const ACCESS_KEY = 'AKIA1234567890ABCDEF'"
+  ],
+  "aws_access_keys": [
+    "AKIAIOSFODNN7EXAMPLE",
+    "AKIAI44QH8DHBEXAMPLE",
+    "AKIA1234567890ABCDEF",
+    "AGPA1111111111EXAMPLE",
+    "AIDA123456789EXAMPLE",
+    "AROA987654321EXAMPLE",
+    "ASIAIOSFODNN7EXAMPLE"
+  ]
+}
+"secret key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY\n" +
+		"blank line\n" +
+		"var pk=\"-----BEGIN RSA PRIVATE KEY-----\n" +
+		"supersecretprivatekeystuff\n" +
+		"-----END RSA PRIVATE KEY-----\"\n" +
+		"var notSecretKeyS3Key: modules/3f9534ada50d42939193d4d1483380ef/v1/QuickSightSubscription.zip"
+
+
+
